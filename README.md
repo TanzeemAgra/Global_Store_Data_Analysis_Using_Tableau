@@ -13,10 +13,10 @@ Over the past few years, business intelligence has evolved to include more proce
 •	Visual analysis: Exploring data through visual storytelling to communicate insights on the fly and stay in the flow of analysis.
 •	Data preparation: Compiling multiple data sources, identifying the dimensions and measurements, preparing it for data analysis.
 In this Project we have created following models using Tableau Desktop
-In our Project, we have considered following business model, such as
-•	Category and Department
-•	Sales and Profit
-•	Sales by Region
-•	Profit Forecast
-•	Trend Lines of the Business.
+In our Project, we have considered following business model, such as<br >
+•	Category and Department<br >
+•	Sales and Profit<br >
+•	Sales by Region<br >
+•	Profit Forecast<br >
+•	Trend Lines of the Business.<br >
 
